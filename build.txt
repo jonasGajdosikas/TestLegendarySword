@@ -1,0 +1,3 @@
+displayName = Sandbox mod for testing
+author = 20jonas02
+version = 0.1
